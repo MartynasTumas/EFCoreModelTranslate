@@ -1,0 +1,17 @@
+C:\Users\Martynas\source\repos\EFCoreModelTranslate\EFCoreModelTranslate\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Martynas\source\repos\EFCoreModelTranslate\EFCoreModelTranslate\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Martynas\source\repos\EFCoreModelTranslate\EFCoreModelTranslate\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Martynas\source\repos\EFCoreModelTranslate\EFCoreModelTranslate\bin\Debug\netcoreapp2.2\EFCoreModelTranslate.deps.json
+C:\Users\Martynas\source\repos\EFCoreModelTranslate\EFCoreModelTranslate\bin\Debug\netcoreapp2.2\EFCoreModelTranslate.runtimeconfig.json
+C:\Users\Martynas\source\repos\EFCoreModelTranslate\EFCoreModelTranslate\bin\Debug\netcoreapp2.2\EFCoreModelTranslate.runtimeconfig.dev.json
+C:\Users\Martynas\source\repos\EFCoreModelTranslate\EFCoreModelTranslate\bin\Debug\netcoreapp2.2\EFCoreModelTranslate.dll
+C:\Users\Martynas\source\repos\EFCoreModelTranslate\EFCoreModelTranslate\bin\Debug\netcoreapp2.2\EFCoreModelTranslate.pdb
+C:\Users\Martynas\source\repos\EFCoreModelTranslate\EFCoreModelTranslate\obj\Debug\netcoreapp2.2\EFCoreModelTranslate.csprojAssemblyReference.cache
+C:\Users\Martynas\source\repos\EFCoreModelTranslate\EFCoreModelTranslate\obj\Debug\netcoreapp2.2\EFCoreModelTranslate.csproj.CoreCompileInputs.cache
+C:\Users\Martynas\source\repos\EFCoreModelTranslate\EFCoreModelTranslate\obj\Debug\netcoreapp2.2\EFCoreModelTranslate.RazorAssemblyInfo.cache
+C:\Users\Martynas\source\repos\EFCoreModelTranslate\EFCoreModelTranslate\obj\Debug\netcoreapp2.2\EFCoreModelTranslate.RazorAssemblyInfo.cs
+C:\Users\Martynas\source\repos\EFCoreModelTranslate\EFCoreModelTranslate\obj\Debug\netcoreapp2.2\EFCoreModelTranslate.AssemblyInfoInputs.cache
+C:\Users\Martynas\source\repos\EFCoreModelTranslate\EFCoreModelTranslate\obj\Debug\netcoreapp2.2\EFCoreModelTranslate.AssemblyInfo.cs
+C:\Users\Martynas\source\repos\EFCoreModelTranslate\EFCoreModelTranslate\obj\Debug\netcoreapp2.2\EFCoreModelTranslate.RazorTargetAssemblyInfo.cache
+C:\Users\Martynas\source\repos\EFCoreModelTranslate\EFCoreModelTranslate\obj\Debug\netcoreapp2.2\EFCoreModelTranslate.dll
+C:\Users\Martynas\source\repos\EFCoreModelTranslate\EFCoreModelTranslate\obj\Debug\netcoreapp2.2\EFCoreModelTranslate.pdb
